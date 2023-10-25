@@ -11,7 +11,7 @@
 
 #### Skills: Programming Languages & Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,aws,dynamodb,docker,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,nodejs,react,vue,redux,aws,jest,dynamodb,java,kotlin,androidstudio,docker,git,linux)](https://skillicons.dev)
 
 <h2 align='center'> Connect with me 📫 </h2>
 <p align = 'center'>
